@@ -1,0 +1,4 @@
+mypuppet-train
+==============
+
+Puppet training
